@@ -36,11 +36,14 @@ John Newland was born in the year 1838 and died in the year 1898.
 His contribution was his classification of elements into 11 groups that exhibited the Law of Octaves, which state that every 8th element repeated its physical and chemical properties.
 His proposal was later rejected due to it not holding true for elements heavier than Calcium ($Ca$).
 ### Julius Lothar Meyer
+Julius Lothar Meyer was born in the year 1830 and died in the year 1895.
+His contribution was being the first person to observe the trends among elements, specifically in regards to its atomic volume.
+
 *Formula for Atomic Volume* : $V_{m}=\frac{M}{\rho}$
 - $V_{m}$ ($m^3/mol$) = Molar Volume.
 - $M$ ($g/mol$) = Molar Mass.
 - $\rho$ ($mol/m^3$) = Molar Density.
-### Dimitri Mendleev
+### Dimitri Mendeleev
 Dimitri Mendeleev was born in the year 1834 and died on the year 1907.
 
 He created the predecessor to the modern periodic table.
