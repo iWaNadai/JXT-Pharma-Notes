@@ -2,6 +2,7 @@
 title: Chemistry and Matter
 tags:
   - general-chemistry
+date: 2024-07-26
 ---
 # What is Chemistry
 Chemistry is the science that focuses on the laws, compositions, and interactions between matter. Scientists that partake in this field are known as chemists.

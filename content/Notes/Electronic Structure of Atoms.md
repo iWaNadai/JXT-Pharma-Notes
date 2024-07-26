@@ -2,6 +2,7 @@
 title: Electronic Structure of Atoms
 tags:
   - general-chemistry
+date: 2024-07-26
 ---
 When trying to comprehend the structure of the atom, it is best to imagine it similar to a solar system, with the nucleus being the sun and the electrons are the planet.
 # Internal structure of an atom
@@ -72,3 +73,27 @@ This quantum number can have integral values between $-l$ and $l$, including zer
 
 This quantum number will determine the orientation of your orbital shape determined by your Azimuthal Quantum Number ( $l$ ).
 
+### Spin Quantum Number ( $m_s$ )
+This quantum number dictates the orientation of your electron and can have a value of either $-\frac{1}{2}$ or $+\frac{1}{2}$ which denote counter-clockwise and clockwise spin respectively.
+
+Electrons, denoted by a number 1, are prefixed by an up arrow for "Spin-up" or clockwise spin ( $\uparrow$ ) or a down arrow for "Spin-down" or counter-clockwise spin ( $\downarrow$ ).
+### Restrictions to the orbitals
+#### Pauli's Exclusion Principle
+No two electrons in an atom can have the same four quantum numbers.
+
+If two electrons in an atom should have the same $n$, $l$, and $m_l$ quantum numbers, they must have different $m_s$.
+
+Only two electrons must have the same atomic orbital with both having opposing spins. 
+#### Hund's Rule of Maximum Multiplicity
+The most stable arrangement of electrons in a sub shell is the one with the greatest number of parallel spins.
+
+This states that electrons must be placed singly.
+#### Afbau's Building-up Principle
+As protons are added one by one to the nucleus to build up the elements, electrons are similarly added to the atomic orbitals.
+1. Fill orbitals by energy, one by one.
+2. Up to two electrons must be observed per orbital.
+3. Filling degenerate orbitals.
+# Electron Configuration
+The way electrons are distributed among the various orbitals of an atom.
+
+The most stable electron configuration is that in which the electrons are in the lowest possible energy states.

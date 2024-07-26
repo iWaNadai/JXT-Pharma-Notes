@@ -2,6 +2,7 @@
 title: Periodic Table - Basics and Brief History
 tags:
   - general-chemistry
+date: 2024-07-26
 ---
 The discovery of the elements has been an ongoing process since ancient times, and our catalog of elements: The Periodic Table, has been growing slowly in our lifetime.
 # Brief Timeline

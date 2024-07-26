@@ -1,3 +1,9 @@
+---
+title: Periodic Table - Periodic Trends
+tags:
+  - general-chemistry
+date: 2024-07-26
+---
 According to [[Periodic Table - Basics and Brief History#Periodic Law|Periodic Law]], arranging our elements in increasing atomic number ( like how it is arranged in the Periodic Table ), we begin to see patterns in the elemental characteristics, that is called a Periodic Trend.
 
 Below are the Periodic Trends in the Periodic Table
@@ -28,3 +34,16 @@ Atomic radius increases you move right to left ( $\leftarrow$ ) and as move down
 Metallic Character is the tendency to lose an electron in a bond and form positive ions or cations.
 
 Metallic Character increases as you move from right to left ( $\rightarrow$ ) and as you move down a group ( $\downarrow$ ).
+
+## Metals vs Non Metals
+| Metals                                  | Nonmetals                                  |
+| --------------------------------------- | ------------------------------------------ |
+| Forms cations                           | Form anions                                |
+| Metallic luster                         | Dull, colorless, to colorful               |
+| Good conductors of heat and electricity | Poor conductors of heat and electricity    |
+| Malleable & Ductile                     | Brittle                                    |
+| High melting point                      | Low melting points                         |
+| Solid at room temperature               | Often liquids or gases at room temperature |
+
+## Metalloids
+These are elements whose properties are intermediate between those of metals and solid nonmetals

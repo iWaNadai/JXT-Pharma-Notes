@@ -3,6 +3,7 @@ title: Units and Conversions
 tags:
   - others
   - general-chemistry
+date: 2024-07-26
 ---
 # Units 
 - Units for Mass
@@ -82,7 +83,7 @@ Formula: $$1atm=760mmHg=760torr=101.3kPa$$
 ## Temperature
 ## $\degree C\rightarrow\degree F$ 
 Formula: $$\degree C=(\degree F-32)\times\frac{5}{9}$$
-## $C\rightarrow K$
+## $\degree C\rightarrow K$
 Formula: $$K=\degree C+273.15$$
 
 

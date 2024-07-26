@@ -3,6 +3,7 @@ title: Formulas
 tags:
   - others
   - general-chemistry
+date: 2024-07-26
 ---
 # Combined Gas Law Formula
 - Use case:
