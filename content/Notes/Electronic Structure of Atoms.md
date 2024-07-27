@@ -4,7 +4,7 @@ tags:
   - general-chemistry
 date: 2024-07-26
 ---
-**When** trying to comprehend the structure of the atom, it is best to imagine it similar to a solar system, with the nucleus being the sun and the electrons are the planet.
+When trying to comprehend the structure of the atom, it is best to imagine it similar to a solar system, with the nucleus being the sun and the electrons are the planet.
 # Internal structure of an atom
 Made up of Subatomic particles, which are the building blocks of the atom.
 - Electron - Possesses a negative electrical charge. ( $e^{-}$ )

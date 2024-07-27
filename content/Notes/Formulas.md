@@ -3,7 +3,7 @@ title: Formulas
 tags:
   - others
   - general-chemistry
-date: 2024-07-26
+date: 2024-07-23
 ---
 # Combined Gas Law Formula
 - Use case:
@@ -26,8 +26,6 @@ date: 2024-07-26
 	- $P_1$ - First / Initial Pressure 
 	- $P_2$ - Second / Final Pressure
 - Formula: $$V_1P_1=V_2P_2$$
-
-$$4atm=P_2$$
 # Gay-Lussac's Law Formula
 - Use case:
 	- Volume is constant / Isovolumetric
@@ -58,7 +56,7 @@ $$2.83atm=P_2$$
 	- $V_2$ - Second / Final Volume
 	- $n_1$ - First / Initial Number of Moles
 	- $n_2$ - Second / Final Number of Moles
-- Formula: $$\frac{V_1}{n_2}=\frac{V_2}{n_2}$$
+- Formula: $$\frac{V_1}{n_1}=\frac{V_2}{n_2}$$
 # Van der Waal's Real Gas Formula
 - Use case:
 	- When the problem concerns real gases

@@ -2,7 +2,7 @@
 title: The Atomic Structure
 tags:
   - general-chemistry
-date: 2024-07-26
+date: 2024-07-25
 ---
 # History
 ## Democritus

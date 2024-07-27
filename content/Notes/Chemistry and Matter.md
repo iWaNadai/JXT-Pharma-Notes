@@ -2,7 +2,7 @@
 title: Chemistry and Matter
 tags:
   - general-chemistry
-date: 2024-07-26
+date: 2024-07-23
 ---
 # What is Chemistry
 Chemistry is the science that focuses on the laws, compositions, and interactions between matter. Scientists that partake in this field are known as chemists.
@@ -42,7 +42,7 @@ The conversion between SI Units (Metric Units) is as simple as multiplying or di
 
 For methods in converting between Imperial/Non-metric units to SI/Metric units, see: [[Units and Conversions]].
 ## Classification
-Matter is a large group with a diverse array of different materials; in order for scientist to make sense of matter and their possible relationships and interaction, they classified elements based on key traits.
+Matter is a large group with a diverse array of different materials; in order for scientist to make sense of matter and the possible relationships and interactions, they classified elements based on key traits.
 ### Phases
 Phases is described as the current state in which matter exists.
 The four states of matter that are observable in everyday life are the following: 
@@ -50,18 +50,18 @@ The four states of matter that are observable in everyday life are the following
 - Liquid
 - Gas
 - Plasma
-### Phase Changes
+#### Phase Changes
 A piece of matter’s phase can be changed through the manipulation of one or more two variables, notably: temperature and pressure.
 
 Increasing the amount of heat can change matter from one phase to another, the same is true when decreasing the amount of heat. Different materials have different heat requirements to change their current state.
 
 **Enthalpy** - The amount of energy in a thermodynamic system. Refers also to the total heat content of a system.
-### Mesophases
+#### Mesophases
 As one woulds assume, the change between phases are not instantaneous and is closer to a transition. In Chemistry there is a concept known as a Mesophase, which refers to the intermediate phases between two states of matter.
 Such as:
 - Liquid Crystals (Solid$\longleftrightarrow$Liquid)
 - Supercritical Fluids (Liquid$\longleftrightarrow$Gas
-### Phase Equilibrium
+#### Phase Equilibrium
 A phase equilibrium is a state in which two states of matter can coexist.
 
 If we were to use Water ($H_2O$) as an example. $H_2O$ can exist as Ice (Solid), Water (Liquid), or Vapor (Gas).
@@ -82,14 +82,13 @@ Compound is the appropriate term for a substance comprised of two or more elemen
 
 Molecules are commonly used to refer to compounds; molecules are any substance that is comprised of two or more elements regardless of the number of unique elements involved.
 (Ex. $O_2$ is both an element and a molecule, $H_2O$ is both a compound and a molecule.)
-
 ### Mixtures
 Mixtures are described a mixture of two or more pure substances and can be further classified into [[#Homogeneous Mixtures|heterogeneous]] and [[#Homogeneous Mixtures|homogeneous]] mixtures. 
 #### Heterogeneous Mixtures
 These are mixtures where their components are still differentiable from one another (Ex. a mixture of oil and water).
 
 Heterogeneous Mixtures come in different forms such as: 
-- Suspension (Solid & Liquid) - A fluid that contains solid particle that are insoluble and are sufficiently large for sediementation.
+- Suspension (Solid & Liquid) - A fluid that contains solid particle that are insoluble and are sufficiently large for sedimentation.
 - Emulsion (Liquid & Liquid) - A mixture of two liquids where the two components are immiscible.
 - Solid Sol (Solid & Solid) - A solution wherein both the solute and solvent are solid.
 - Aerosol (Solid and/or Liquid & Gas) - A solution where in small liquid and/or solid particles are dispersed in a gas.

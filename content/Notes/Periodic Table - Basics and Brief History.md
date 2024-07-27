@@ -2,7 +2,7 @@
 title: Periodic Table - Basics and Brief History
 tags:
   - general-chemistry
-date: 2024-07-26
+date: 2024-07-22
 ---
 The discovery of the elements has been an ongoing process since ancient times, and our catalog of elements: The Periodic Table, has been growing slowly in our lifetime.
 # Brief Timeline
@@ -23,6 +23,12 @@ The discovery of the elements has been an ongoing process since ancient times, a
 	- Gave us +15 elements.
 # Periodic Law
 The periodic law states that when our elements are arranged in order of increasing atomic number, striking similarities in their properties appear in regular periodic intervals.
+## Period
+This is a horizontal section or row in the periodic table. Periods are indexed using Arabic numerals (Period 1, Period 2, etc.)
+## Group
+This is a vertical section or column in the periodic table. Groups are divided into two groups: group A and B, and are indexed with either Roman numerals or Arabic numerals.
+
+See also: [[Periodic Table - Periodic Trends]]
 # Periodic Table
 A tabular arrangement of elements in increasing number of atomic number that illustrates the [[Periodic Table - Basics and Brief History#Periodic Law|Periodic Law]].
 ## Contributing Figures
