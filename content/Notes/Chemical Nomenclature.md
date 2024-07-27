@@ -25,7 +25,7 @@ The name generated for these types of bonds follows this format: $$[\text{metal}
 
 $$Mg_3(PO_4)_2=\text{Magnesium Phosphate}$$
 
-For the names of the polyatomic ions, refer to the guide at the end or click [[#Polyatomic Ions|here]].
+For the names of the polyatomic ions, refer to the guide at the end or click [[Chemical Nomenclature#Polyatomic Ions|here]].
 ### Type II - Transitive Metal
 For compounds whose metal is a transitive metal. Compounds under this type have a Stock/Systematic name and a Common/Classical name.
 #### Ionic Binary
@@ -37,7 +37,8 @@ The name generated for these type of bonds follow the following formats
 | ------------------------------------------------------------------ | ---------------------------------------------------------- |
 | $[\text{trans. metal}\space(\text{OxS})\space\text{nonmetal+ide}]$ | $[\text{latin trans. metal+ous}\space\text{nonmetal+ide}]$ |
 |                                                                    | $[\text{latin trans. metal+ic}\space\text{nonmetal+ide}]$  |
-Note: the "-ous" suffix is used to refer to the lesser oxidation state ( $\text{OxS}$ ) of a given element; and the "-ic" suffix is used to refer to the greater oxidation state. For a guide on the oxidation states, click [[#Oxidation States|here]].
+
+Note: the "-ous" suffix is used to refer to the lesser oxidation state ( $\text{OxS}$ ) of a given element; and the "-ic" suffix is used to refer to the greater oxidation state. For a guide on the oxidation states, click [[Chemical Nomenclature#Oxidation States|here]].
 
 $$CuCL=\text{Copper (I) Chloride}=\text{Cuprous Chloride}$$
 #### Ionic Ternary
@@ -242,6 +243,7 @@ $$HNO_3=\text{Nitric acid}$$
 # Oxidation States
 ## Representative Elements
 ![[Representative Elements Oxidation States.jpg]]
-Note: Group 4A or the Crystallogens can either give 4 electrons ( $-4$ ) or lose 4 electrons ( $+4$ ).
+
+Note: Group 4A or the Crystallogens can either gain 4 electrons ( $-4$ ) or lose 4 electrons ( $+4$ ).
 ## Transition Elements
 ![[Transition Elements Oxidation States.jpg]]

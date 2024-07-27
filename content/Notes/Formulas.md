@@ -36,8 +36,6 @@ date: 2024-07-23
 	- $T_1$ - First Temperature / Initial Temperature ($K$)
 	- $T_2$ - Second Temperature / Final Temperature ($K$)
 - Formula: $$\frac{P_1}{T_1}=\frac{P_2}{T_2}$$
-
-$$2.83atm=P_2$$
 # Charles' Law Formula
 - Use case:
 	- Pressure is constant / Isobaric

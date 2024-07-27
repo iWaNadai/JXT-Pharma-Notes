@@ -9,5 +9,6 @@ date: 2024-07-22
 - [[Chemistry and Matter]]
 - [[The Atomic Structure]]
 - [[Electronic Structure of Atoms]]
+- [[Chemical Nomenclature]]
 
 

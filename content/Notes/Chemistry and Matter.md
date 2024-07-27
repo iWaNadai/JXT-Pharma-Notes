@@ -28,15 +28,17 @@ Units of measurements are used in relaying a specific measurement or value. The 
 The International System of Units, abbreviated to SI Units (from the french: *Système international d'unités*), also nown as the metric system, is a standard system of units that follows a base10 system of scaling unlike imperial units which uses an outdated and confusing system of conversion.
 
 SI Units have prefixes that denote their scale in relation to their base unit (the below example uses grams ($g$) ).
+
 $$kg\leftarrow hc\leftarrow dag\leftarrow g \rightarrow dg \rightarrow cg \rightarrow mg$$
-	$kg$ - Kilograms
-	$hc$ - Hectogramss
-	$dag$ - Dekagrams
-	$g$ - Grams
-	$dg$ - Decigrams
-	$cg$ - Centigrams
-	$mg$ - Milligrams
+- $kg$ - Kilograms
+- $hc$ - Hectogramss
+- $dag$ - Dekagrams
+- $g$ - Grams
+- $dg$ - Decigrams
+- $cg$ - Centigrams
+- $mg$ - Milligrams
 The values above have the corresponding bases as below: 
+
 $$10^{-3} \leftarrow 10^{-2} \leftarrow 10^{-1} \leftarrow 10^{0} \rightarrow 10^1 \rightarrow 10^2 \rightarrow 10^3$$
 The conversion between SI Units (Metric Units) is as simple as multiplying or dividing your value with the base off your desired unit.
 
@@ -146,7 +148,7 @@ The total mass of all product of a chemical reaction is equal to the total mass 
 
 $$\text{Mass of reactants}=\text{Mass of products}$$
 
-Mass can neither be create nor destroyed
+Mass can neither be created nor destroyed
 
 This law is the basis of Stoichiometry, the practice of balancing the number of atoms of a chemical reaction to adhere to the law on conservation of mass.
 ### Chemical Reactions
