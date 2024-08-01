@@ -117,3 +117,15 @@ date: 2024-07-23
 	- $\text{bond}$ - The number of bonds of the element.
 	- $\text{unpaired e}^-$ - The number of unpaired electrons of the element
 - Formula: $$\text{formal charge}=\text{Ve}^--\text{bond}-\text{unpaired e}^-$$
+# Calculation of Microscope Magnification
+- Use case:
+	- For logging the magnification used when conducting microscopy.
+- Variable:
+	- $M_\text{Ocular}$ - Magnification value of the ocular lens ( usually $10\times$  magnification )
+	- $M_\text{Objective}$ - Magnification value of the objective lens
+		- Scanning Lens = $4\times$
+		- Low Power Lens = $10\times$
+		- High Power Lens = $40\times$
+		- Oil Immersion Objective Lens = $100\times$
+	- $M_\text{Total}$ - Total magnification used in your experiment
+- Formula: $M_\text{Total}=M_\text{Ocular}\times M_\text{Objective}$

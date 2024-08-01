@@ -39,18 +39,23 @@ These are changes to the substances nucleus.
 ## Patterns in Chemical Reactivity
 ### Combination
 These are reactions where 2 or more substances ( Ex. $A$ and $B$ ) react to form a single substance ( Ex. $C$ ).
+
 $$A+B\longrightarrow C$$
 ### Decomposition
 Often described as "Inverse Combination", this involves the substance ( Ex. $C$ ) reacting to form 2 or more substances ( Ex. $A$ and $B$ ).
+
 $$C\longrightarrow A + B$$
 ### Combustion
 Combustion reactions are rapid reactions that produce a flame, and commonly involve oxygen ( $O_2$ ) as a reactant.
+
 $$A+O_2\longrightarrow AO_2$$
 ### Single Displacement
 This reaction involves one part of a reactant being displaced onto the other reactant.
+
 $$A+BC\longrightarrow AB+C$$
 ### Double Displacement
 This reaction involves where one part of each reactant compounds are displaced.
+
 $$AB+CD\longrightarrow AD+CB$$
 ### Oxidation
 This involves the addition of oxygen ( $O$ ) and the removal of Hydrogen ( $H$ ).
@@ -59,6 +64,7 @@ This reaction is the reversal of the oxidation reaction. The removal of oxygen (
 ### Red-Ox Reaction
 This reaction is the simultaneous oxidation and reduction of the reactants.
 ### Neutralization
+These are reactions between acids and bases, which are highly reactive.
 ## Reactions Based on Energy
 
 ### Endothermic

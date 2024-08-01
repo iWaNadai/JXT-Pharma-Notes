@@ -1,13 +1,28 @@
 ---
 title: JXT Pharma Notes
+description: An online notes repository written and uploaded by a BS Pharmacy student for BS Pharmacy students. Luke Lives On!
 ---
 *Luke Lives On!*
 # Who am I?
-I am a BS Pharmacy students (as of S.Y. 2024-2025). You can call me Juxt.
+I am a BS Pharmacy students (as of S.Y. 2024-2025). You can call me Juxt. My senior highschool experienced changed me and inspired me to not only achieve academically but also to assist academically.
 
 # What is this?
-This is a publicized version of my class notes. I did this so I could pass my notes along to those interested.
+This is a publicized version of my class notes. I did this so I could pass my notes along to those interested. 
 
-# Subjects
+Even though my notes are made primarily for BS Pharmaccy students, if any of the notes are useful to you regardless of course, feel free to browse it as much as you want.
+
+If any mistakes were made in my notes feel free to email me at: juxtikaw@gmail.com
+
+Any correction is welcomed cause it's gonna save me too!
+# Bridging (Pre-Course Subjects)
 - [[General Chemistry]]
-- [[Other]]
+# Course Subjects
+- [[Perspectives in Pharmacy]]
+- [[Pharmaceutical Botany with Taxonomy]]
+- [[Pharmaceutical Inorganic Cemistry]]
+- [[Pharmaceutical Calculations & Techniques]]
+# General Subjects
+- [[Mathematics in the Modern World]] 
+- [[Purposive Communication]]
+- [[Physical Activities Towards Health and Fitness I]]
+- [[Essentials in Catholic Faith]] ( also known as Theology; depends on your institution )
