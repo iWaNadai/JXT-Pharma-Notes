@@ -2,12 +2,14 @@
 title: Formulas
 tags:
   - others
-  - general-chemistry
 date: 2024-07-23
 ---
 # Combined Gas Law Formula
 - Use case:
-	- When variables for pressure ($P$), temperature ($T$), and volume ($V$) are given.
+	- When one of the following variables are desired, while the rest are given:
+		- Pressure ($P$)
+		- Temperature ($T$)
+		- Volume ($V$)
 - Variables: 
 	- $P_1$ - First / Initial Pressure
 	- $P_2$ - Second / Final Pressure
@@ -16,6 +18,21 @@ date: 2024-07-23
 	- $T_1$ - First / Initial Temperature ( $K$ )
 	- $T_2$ - Second / Final Temperature ( $K$ )
 - Formula: $$\frac{P_1V_1}{T_1}=\frac{P_2V_2}{T_2}$$
+# Ideal Gas Law Formula
+- Use case:
+	- When one of the following variables are desired, while the rest are given:
+		- Pressure ($P$)
+		- Temperature ($T$)
+		- Volume ($V$)
+		- Number of moles ($n$)
+- Variables:
+	- $P$ - Pressure
+	- $V$ - Volume
+	- $T$ - Temperature ($K$)
+	- $n$ - Number of moles ($mol$)
+	- $R$ - Gas constant ($0.08206L\cdot atm/mol\cdot K$)
+- Formula: 
+	- $$PV=nRT$$
 # Boyle's Law Formula
 - Use Case: 
 	- Temperature is constant / Isothermal
@@ -58,7 +75,7 @@ date: 2024-07-23
 # Van der Waal's Real Gas Formula
 - Use case:
 	- When the problem concerns real gases
-- Variable:
+- Variables:
 	- $R$ - Gas Constant ( $0.08206L\cdot atm/mol\cdot K$ )
 	- $P$ - Pressure
 	- $n$ - Number of moles of the given gas.
@@ -70,7 +87,7 @@ date: 2024-07-23
 	- When asked the partial pressure of a gas
 	- Mole fraction is given
 	- Total pressure is given
-- Variable:
+- Variables:
 	- $P_T$ - Total Pressure
 	- $\chi$ - Mole fraction ( $\frac{n_x}{n_T}$ )
 		- $n_x$ - Moles of a particular gas
@@ -83,7 +100,7 @@ date: 2024-07-23
 	- For calculating the vapor pressure of a solution
 	- Solvent pressure is given
 	- Solvent mole fraction is given
-- Variable:
+- Variables:
 	- $P_\text{solution}$ - Vapor pressure of the solution
 	- $\chi_\text{solvent}$ - Mole fraction of the solvent ( $\frac{n_\text{solvent}}{n_\text{solvent}+n_\text{solute}}$ )
 		- $n_\text{solvent}$ - Moles of the solvent
@@ -93,7 +110,7 @@ date: 2024-07-23
 # Graham's Law Formula
 - Use case:
 	- To compare the rates of diffusion between two gases
-- Variable:
+- Variables:
 	- $\text{Rate}_1$ - Rate of the first gas
 	- $\text{Rate}_2$ - Rate of the second gas
 	- $MW_1$ - Molecular weight of the first gas
@@ -102,7 +119,7 @@ date: 2024-07-23
 # Fick's 1st Law Formula
 - Use case:
 	- When asked the flux of a given gas
-- Variable:
+- Variables:
 	- $J$ - Flux (amount of substance per unit area per unit of time)
 	- $D$ - Diffusivity (diffusion coefficient)
 	- $\varphi$ - Concentration gradient (difference in concentration)
@@ -111,7 +128,7 @@ date: 2024-07-23
 # Formal Charge Formula
 - Use case:
 	- For determining formal charge
-- Variable:
+- Variables:
 	- $\text{formal charge}$ - The integer charge of the element.
 	- $\text{Ve}^-$ - The valence electron of the element.
 	- $\text{bond}$ - The number of bonds of the element.
@@ -120,7 +137,7 @@ date: 2024-07-23
 # Calculation of Microscope Magnification
 - Use case:
 	- For logging the magnification used when conducting microscopy.
-- Variable:
+- Variables:
 	- $M_\text{Ocular}$ - Magnification value of the ocular lens ( usually $10\times$  magnification )
 	- $M_\text{Objective}$ - Magnification value of the objective lens
 		- Scanning Lens = $4\times$
@@ -129,3 +146,11 @@ date: 2024-07-23
 		- Oil Immersion Objective Lens = $100\times$
 	- $M_\text{Total}$ - Total magnification used in your experiment
 - Formula: $M_\text{Total}=M_\text{Ocular}\times M_\text{Objective}$
+# Mole Conversion Between Different Molecules Formula
+- Use case:
+	- When converting from the moles of element $x$ to moles of element $y$ and a balanced chemical equation is given.
+- Variables:
+	- $Cf_x$ - Coefficient of element $x$ in the balanced chemical equation.
+	- $Cf_y$ - Coefficient of element $y$ in the balanced chemical equation.
+- Formula: 
+	- $$\frac{Cf_x}{Cf_y}$$

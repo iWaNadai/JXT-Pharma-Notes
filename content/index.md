@@ -14,15 +14,3 @@ Even though my notes are made primarily for BS Pharmaccy students, if any of the
 If any mistakes were made in my notes feel free to email me at: juxtikaw@gmail.com
 
 Any correction is welcomed cause it's gonna save me too!
-# Bridging (Pre-Course Subjects)
-- [[General Chemistry]]
-# Course Subjects
-- [[Perspectives in Pharmacy]]
-- [[Pharmaceutical Botany with Taxonomy]]
-- [[Pharmaceutical Inorganic Cemistry]]
-- [[Pharmaceutical Calculations & Techniques]]
-# General Subjects
-- [[Mathematics in the Modern World]] 
-- [[Purposive Communication]]
-- [[Physical Activities Towards Health and Fitness I]]
-- [[Essentials in Catholic Faith]] ( also known as Theology; depends on your institution )

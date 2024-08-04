@@ -1,6 +1,0 @@
-- Use case:
-	- 
-- Variable:
-	- 
-- Formula: 
-	- 
