@@ -14,3 +14,17 @@ Even though my notes are made primarily for BS Pharmaccy students, if any of the
 If any mistakes were made in my notes feel free to email me at: juxtikaw@gmail.com
 
 Any correction is welcomed cause it's gonna save me too!
+
+# Subjects
+## Bridging (Pre course subjects)
+- #general-chemistry 
+- #others 
+
+## Course Related 
+- #perspectives-in-pharmacy 
+- #pharmaceutical-botany 
+- #pharmaceutical-inorganic-chemistry 
+- #pharmaceutical-calculations-and-techniques 
+## General 
+- #mathematics-in-the-modern-world 
+- #religious-studies 
