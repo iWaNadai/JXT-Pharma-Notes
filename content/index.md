@@ -17,14 +17,12 @@ Any correction is welcomed cause it's gonna save me too!
 
 # Subjects
 ## Bridging (Pre course subjects)
-- #general-chemistry 
-- #others 
+- [[General Chemistry]]
+- [[Others]]
 
 ## Course Related 
-- #perspectives-in-pharmacy 
-- #pharmaceutical-botany 
-- #pharmaceutical-inorganic-chemistry 
-- #pharmaceutical-calculations-and-techniques 
+- [[Perspectives in Pharmacy]]
+- [[Pharmaceutical Botany]]
+- [[Pharmaceutical Inorganic Chemistry]]
 ## General 
-- #mathematics-in-the-modern-world 
-- #religious-studies 
+- [[Religious Studies]]

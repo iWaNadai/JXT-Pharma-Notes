@@ -34,8 +34,6 @@ It is something given to us by God, we inherit it from God.
 It cannot be violated, no one has the right to violate or profane it.
 ### Inalienable
 It is an essential part of every Human being that cannot be taken away.
-## The Sacredness of Life
-
 ## Essential Figures
 ### St. Thomas Aquinas ( 1225-1275 )
 He refined th understanding of the human person being created in God's image by interpreting Genesis to teach that the human person is an:
@@ -43,3 +41,40 @@ He refined th understanding of the human person being created in God's image by 
 >"Intelligent being endowed with free will and self-movement"
 
 The human person has a soul which endows him/her with the ability to know and love God freely, thereby having a privileged place in the order of creation.
+## The Sacredness of Life
+Life is the clearest and most central manifestation of God among us; for it is a gift given from Him to us. It is the transcendent value and worth of every person that comes from God.
+
+Human dignity is therefor the basic respect of person that manifest life. The respect that allows our fellow man to develop their own potential; and to make some personal contribution to common goals and to feel a home in an environment within which they are known and acknowledge.
+
+To respect a person and their human dignity is to acknowledge their personal worth and to act in a way to develop it.
+
+Human dignity dictates that despite the social, economic, physical, emotional, or mental handicaps do not lessen a person's human dignity; and does not warrant or justify disrespect onto them. Many methods, such as Special Education show that handicaps can be worked around and will not fully disable a person.
+
+Human dignity does not admit degrees and is universal regardless of demographic;
+### Reason
+It refers to the faculty that has th capacity to grasp truth and knowledge of the good.
+### Freedom
+It refers to the inner power that is rooted in reason and will, to act or not to act, to do this and that, and so to perform deliberate actions on one's own responsibility ( CCC 1731 ).
+### Conscience
+It refers too the written law in the hearts of men that commands to do good and avoid evil ( CCC 177 ).
+## God
+> "Humans are Imago Dei".
+
+Imago Dei means the image of God
+
+In life we participate in God's divine trinitarian nature and called to belong in the communit of the Father, Son, and Holy Spirit. We are called to be in communion with the Father, Son, and Holy Spirit. To exercise our human dignity is to acknowledge ourselves as being made on the image of God.
+### Exodus
+>"I have seen the misery of my people who are in Egypt. I have heard their cry on account of their taskmasters. Indeed, I know their sufferings and I have come down to deliver them from the Egyptians and to bring them up out of that land to a good and broad land, a land flowing with milk and honey." Exodus 3:4-8
+
+In this story, God pitied the Israelites and saved them from Egyptian slavery through Moses.
+
+God has pity for human suffering, especially those who wishes people to be liberatted and to live a life of dignity.
+
+All forms of enslavement nd oppression are a mockery to God's will as a creator of humanity and his own image. Human suffering is not the will of God but is something we should work to abolish and fight against.
+
+God's will is done on earth when the conditions for truly humane existence are created. When we make the world the best it can be, can we truly say that God's will is done
+### Gospels
+> "The spirit of the lord is upon me, because he has anointed me to bring glad tidings to the poor, He has sent me to proclaim liberty to captives and recovery of sight to the blind, and to let the oppressed go free and to proclaim a year acceptable to the Lord." Luke 4:18-19
+
+
+

@@ -7,47 +7,66 @@ date: 2024-07-23
 # Units 
 - Units for Mass
 	- SI Units
-		- Kilograms ( $kg$ )
-		- Hectograms ( $hg$ )
-		- Dekagrams ( $dag$ )
-		- Grams ( $g$ )
-		- Decigrams ( $dg$ )
-		- Centigrams ( $cg$ )
-		- Milligrams ( $mg$ )
+		- Kilograms ( $\text{kg}$ )
+		- Hectograms ( $\text{hg}$ )
+		- Dekagrams ( $\text{dag}$ )
+		- Grams ( $\text{g}$ )
+		- Decigrams ( $\text{dg}$ )
+		- Centigrams ( $\text{cg}$ )
+		- Milligrams ( $\text{mg}$ )
 - Units for Volume
+	- Derived Units 
+		- Cubic Centimeter ( $\text{cc}\space\text{or}\space\text{cm}^3$ )
 	- SI Units
-		- Kiloliters ( $kL$ )
-		- Hectoliters ( $hL$ )
-		- Dekaliters ( $daL$ )
-		- Liters ( $L$ )
-		- Deciliters ( $dL$ )
-		- Centiliters ( $cL$ )
-		- Milliliters ( $mL$ )
+		- Kiloliters ( $\text{kL}$ )
+		- Hectoliters ( $\text{hL}$ )
+		- Dekaliters ( $\text{daL}$ )
+		- Liters ( $\text{L}$ )
+		- Deciliters ( $\text{dL}$ )
+		- Centiliters ( $\text{cL}$ )
+		- Milliliters ( $\text{mL}$ )
 - Units for Pressure
 	- Derived Units
-		- $N/m^2$
-		- $kg/m\cdot s^2$
+		- $\text{N}/\text{m}^2$
+		- $\text{kg}/\text{m}\cdot\text{s}^2$
 	- SI Units
-		- Kilopascals ( $kPa$ )
-		- Hectopascals ( $hPa$ )
-		- Dekapascals ( $daPa$ )
-		- Pascals ( $P$a )
-		- Decipascals ( $dPa$ )
-		- Centipascals ( $cPa$ )
-		- Millipascals ( $mPa$ )
+		- Kilopascals ( $\text{kPa}$ )
+		- Hectopascals ( $\text{hPa}$ )
+		- Dekapascals ( $\text{daPa}$ )
+		- Pascals ( $\text{P}$a )
+		- Decipascals ( $\text{dPa}$ )
+		- Centipascals ( $\text{cPa}$ )
+		- Millipascals ( $\text{mPa}$ )
 - Units for Time
-	- Seconds ( $s$ )
-	- Minutes ( $m$ )
-	- Hours ( $h$ )
-- Units for 
-
+	- Seconds ( $\text{s}$ )
+	- Minutes ( $\text{m}$ )
+	- Hours ( $\text{h}$ )
 # Converting Similar SI Units
 SI Units share a base10 system, simply multiplying and dividing a number by your current unit and desired unit will be enough for a conversion.
 
 Multiplying value with the appropriate power of 10 is enough for a conversion. (grams are used below but is applicable to all SI Units)
 
-$$0.001kg=0.01hg=0.1dag=1g=10dg=100cg=1000mg$$
+$$0.001\text{kg}=0.01\text{hg}=0.1\text{dag}=1\text{g}=10\text{dg}=100\text{cg}=1000\text{mg}=1000000\mu\text{g}$$
 
+It is recommended to convert back to the base unit if you want to convert from a left-hand unit ($\text{kg}–\text{dag}$) to a right-hand unit ($\text{dg}–\text{mg}$) or vice versa; this recommendation is for the sake of clarity.
+
+Another recommendation is to use dimensional analysis and multiply the given using the following conversion factors ( grams are used as an example).
+
+Note: To convert from grams to other units, just reciprocate the conversion factor.
+
+$\text{kg}\rightarrow\text{g}$ : $$\left(\frac{1000\text{g}}{1\text{kg}}\right)$$
+
+$\text{hg}\rightarrow\text{g}$ : $$\left(\frac{100\text{g}}{1\text{hg}}\right)$$
+
+$\text{dag}\rightarrow\text{g}$ : $$\left(\frac{10\text{dag}}{1\text{g}}\right)$$
+
+$\text{dg}\rightarrow\text{g}$ : $$\left(\frac{1\text{g}}{10\text{dg}}\right)$$
+
+$\text{cg}\rightarrow\text{g}$ : $$\left(\frac{1\text{g}}{100\text{cg}}\right)$$
+
+$\text{mg}\rightarrow\text{g}$ : $$\left(\frac{1g}{1000mg}\right)$$
+
+$\mu\text{g}\rightarrow\text{g}$ : $$\left(\frac{1\text{g}}{1000000\mu\text{g}}\right)$$
 # Converting Different SI Units
 ## Grams to Moles
 - Variable:
