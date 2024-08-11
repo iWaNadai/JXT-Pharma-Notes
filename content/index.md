@@ -15,14 +15,16 @@ If any mistakes were made in my notes feel free to email me at: juxtikaw@gmail.c
 
 Any correction is welcomed cause it's gonna save me too!
 
+***Important Note**: notes made before August 12, 2024 use an inconsistent format that I cannot reformat as of now. They are still viable as notes.*
+
 # Subjects
 ## Bridging (Pre course subjects)
 - [[General Chemistry]]
 - [[Others]]
-
 ## Course Related 
 - [[Perspectives in Pharmacy]]
 - [[Pharmaceutical Botany]]
+- [[Pharmaceutical Calculations and Techniques]]
 - [[Pharmaceutical Inorganic Chemistry]]
 ## General 
 - [[Math in the Modern World]]

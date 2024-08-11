@@ -154,3 +154,10 @@ date: 2024-07-23
 	- $Cf_y$ - Coefficient of element $y$ in the balanced chemical equation.
 - Formula: 
 	- $$\frac{Cf_x}{Cf_y}$$
+# The Number of Subsets in a Set
+- Use case:
+	- When calculating the number of subsets in a set
+- Variables:
+	- $|A|$ - Number of elements in a set
+- Formula: 
+	- $$\text{Number of subsets}=2^{|A|}$$

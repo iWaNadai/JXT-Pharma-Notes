@@ -1,7 +1,6 @@
 ---
 title: General Chemisty
-tags:
-  - subjects
+tags: []
 date: 2024-08-06
 ---
 - [[Basics in Chemical Bonding]]

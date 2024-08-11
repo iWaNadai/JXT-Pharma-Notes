@@ -78,6 +78,7 @@ This states that unpaired electrons will pair up to complete their octet and the
 
 Sigma bonds ( $\sigma$ ) - single bonds.
 Pi bonds ( $\pi$ ) - double bonds, this refers to the consecutive bonds after the initial sigma bond.
+
 #### Molecular Orbital Theory
 This states that bonding electrons are not thought to be between atoms but are shared across the entire molecule.
 

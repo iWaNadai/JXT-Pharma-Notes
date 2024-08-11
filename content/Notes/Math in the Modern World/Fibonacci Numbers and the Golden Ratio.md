@@ -10,7 +10,7 @@ The Fibonacci Sequence is a sequence of numbers created by [[#Fibonacci]] and in
 $$0,1,1,2,3,5,8,13,21,34\dots$$
 
 ## Fibonacci
-He is a medieval Italian mathematician, he was born in the year 1770 and died after the year 1240. He is well known for his Fibonacci Sequence; which is often described as a sequence that is intrinsic to nature itself.
+He is a medieval Italian mathematician, he was born in the year 1170 and died after the year 1240. He is well known for his Fibonacci Sequence; which is often described as a sequence that is intrinsic to nature itself.
 ## Golden Ratio
 The Golden Ratio, denoted as Greek letter Phi ( $\varphi$ or $\phi$ ), is the ratio observed in the [[#Fibonacci Sequence]] and is defined algebraically as:
 

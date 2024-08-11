@@ -32,31 +32,47 @@ Just like other scientists, botanists share an insatiable curiosity for the majo
 
 The four questions above are the general questions that most questions in botany fall under. To answer these questions, botanists, like other scientists use the [[#Scientific Method]].
 ## Scientific Method
-The scientific method is a framework for systematically answering a question while properly addressing expected data and acquired data.
+The scientific method represents a significant shift from earlier approaches to understanding the world, which were largely based on religion and speculative philosophy.
 
-The process is as follows
-1. ***Observation***
-	- Observe and note behaviors and characteristics.
-2. ***Question***
-	- Question something about your observation.
-3. ***Research*** 
-	- Research information about your observation.
-4. ***Hypothesize*** 
-	 - Construct an adequate hypothesis.
-5. ***Experiment***
-	 - Test your hypothesis.
-6. ***Analysis***
-	 - Analyze and compare your acquired results with your expected results.
-7. ***Conclusion*** 
-	- Finalize a conclusions from your findings 
-## What is a Plant?
-We all have our own understandings of what a plant is: a quiet organism with green leaves, a central stem, an underground root system, and the ability to bear flowers.
+Before we used to use religious methods and speculative philosophy to understand the world; one relied on divine intervention and revelations rather than observable evidence and the other relied on logical reasoning and philosophical postulations.
 
-Despite the aforementioned characteristics being true for most plants, there are a wide array of exemptions.
+Both methods are insufficient in finding consistent results for explaining everyday phenomena; thus why we developed the scientific method.
 
-Conifers are plants that bear no flowers but cones.
+The scientific method has four major aspects. Those aspects are the following
+- Source of information
+	- This aspect emphasizes deriving knowledge from documented observations and controlled experiments rather than accepting claims without verification.
+- Study of Phenomena
+	- Focuses on tangible and observable phenomena.
+- Constancy and Universality
+	- Assumes that natural laws are constant and universal.
+- Basis of Skepticism
+	- Embraces skepticism by being open to new evidence and willing to revise conclusions.
 
-Moss are plants that don't bear a central stem.
+The scientific process mainly involves a two part process, those parts are the following:
+- Observation and Hypothesis Formation
+	- Begins with observations, followed by experimentation to test hypotheses. A hypothesis must be testable and make predictions that can be validated or refuted through further experiments.
+- Testing and Validation
+	- Hypotheses are tested against observations and experiments. Successful predictions support the hypothesis, while failures indicate that it may be incorrect. The scientific method values hypotheses that can predict future outcomes accurately.
+## Origin and Evolution of Plants
+Life on Earth began around 3.5 billion years ago with simple organisms similar to modern bacteria. Over billions of years, cells evolved in complexity through natural selection. This process involves slight variations in offspring, where those with advantageous traits are more likely to survive and reproduce, passing on these traits to future generations. New features arise from mutations, and natural selection determines which are preserved or discarded.
+### What is Natural Selection
+Natural selection refers to the phenomenon that is the driving mechanism of evolution. It is essentially how nature naturally selects which animals get to live and spread their genetics.
+
+If an ecosystem's only viable and sustainable source of food are tall trees; animals would die out except for those with long necks or other capabilities to gain nutrients from trees. Those animals that don't die of starvation are then able to breed and pass on their traits that allow them to eat and survive in that ecosystem. This is what natural selection is.
+### Key Evolutionary Milestones
+In the entire timeline of plant life, the following are examples of key evolutionary milestones:
+- Photosynthesis
+	- About 2.8 billion years ago, cyanobacteria developed oxygen-producing photosynthesis, which later became widespread in green plants.
+- Cell Structure
+	- Cells evolved more complex structures, including organelles with specialized functions. A major development was the formation of the nucleus, leading to the classification of cells as prokaryotes (without nuclei) or eukaryotes (with nuclei).
+- Eukaryotic Diversity
+	- Eukaryotes diversified into various forms. Some acquired mitochondria (energy production) or chloroplasts (photosynthesis). This led to the evolution of algae, plants, protozoans, fungi, and animals.
+
+Because of these key evolutionary milestones, all organisms diversified into three domains of life:
+- Bacteria
+- Archaea
+- Eukarya
+	- Includes kingdoms Plantae (plants), Animalia (animals), Myceteae (fungi), and protists.
 ## Scientific Names in Botany
 Scientific names are a means to specify a group of organisms (in botany's case: plants) into names that will not cause confusion.
 
@@ -70,11 +86,6 @@ Take note the following rules.
 - The special epithet must be in lowercase.
 
 See also: [[Taxonomy]]
-## What is Natural Selection
-Natural selection refers to the phenomenon that is the driving mechanism of evolution. It is essentially how nature naturally selects which animals get to live and spread their genetics.
-
-If an ecosystem's only viable and sustainable source of food are tall trees; animals would die out except for those with long necks or other capabilities to gain nutrients from trees. Those animals that don't die of starvation are then able to breed and pass on their traits that allow them to eat and survive in that ecosystem. This is what natural selection is.
-
 # Ang Sampung Halamang Gamot
 Also known as The 10 Herbal Medicines approved by DOH (Department of Health).
 

@@ -1,7 +1,6 @@
 ---
 title: Religious Studies
-tags:
-  - subjects
+tags: []
 date: 2024-08-06
 ---
 - [[Human Dignity]]
