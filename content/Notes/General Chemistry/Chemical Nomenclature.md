@@ -195,7 +195,7 @@ $$HNO_3=\text{Nitric acid}$$
 - Nitrate
 	- $NO_3^-$
 - Nitrite
-	- $NO
+	- $NO_2^{-}$
 - Oxalate
 	- $C_2O_4^{2-}$
 - Ozonide
