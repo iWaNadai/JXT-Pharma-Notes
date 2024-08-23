@@ -158,25 +158,116 @@ date: 2024-07-23
 - Variables:
 	- $|A|$ - Number of elements in a set
 - Formula: $$\text{Number of subsets}=2^{|A|}$$
-# Reaction Rate of a Reactant
+# Calculating the Change of Variable formula
+- Use case:
+	- When calculating the value of a variable with a leading capital delta symbol ( $\Delta$ ).
+- Variables:
+	- $\Delta{a}$ - The change in variable $a$;
+	- $a_\text{final}$ - The final value of variable $a$; the last value;
+	- $a_\text{initial}$ - The initial value of variable $a$; the starting value;
+- Formula: $$\Delta{a}=a_\text{final}-a_\text{initial}$$
+# Reaction Rate of a Reactant Formula
 - Use case:
 	- when determining the reaction rate of a reactant $\text{A}$ in terms of molars per second ( $\text{M}/\text{s}$ )
 - Variables:
 	- $\Delta\left[\text{A}\right]$ - the change in concentration of the reactant $\text{A}$;
-		- $\Delta$ - "the change in—";
-		- $\left[\text{A}\right]$ - the concentration of the reactant $\text{A}$;
 	- $\Delta t$ - the change in time; the time elapsed;
-		- $\Delta$ - "the change in—";
-		- $t$ - time;
 - Formula: $$-\frac{\Delta\left[\text{A}\right]}{\Delta{t}}$$
-# Reaction Rate of a Product
+# Reaction Rate of a Product Formula
 - Use case:
 	- when determining the reaction rate of a product $\text{B}$ in terms of molars per second ( $\text{M}/\text{s}$ )
 - Variables:
-	- $\Delta\left[\text{B}\right]$ - the change in concentration of the reactant $\text{B}$;
-		- $\Delta$ - "the change in—";
-		- $\left[\text{B}\right]$ - the concentration of the reactant $\text{A}$;
+	- $\Delta\left[\text{B}\right]$ - the change in concentration of the product $\text{B}$;
 	- $\Delta t$ - the change in time; the time elapsed;
-		- $\Delta$ - "the change in—";
-		- $t$ - time;
 - Formula: $$\frac{\Delta\left[\text{B}\right]}{\Delta{t}}$$
+# Overall Reaction Rate with a Reactant Formula
+- Use case:
+	- When determining the overall reaction rate ( $\text{M}/\text{s}$ ), given the full balanced equation or the coefficient of one of the reactants;
+- Variables:
+	- $Cf_\text{A}$ - The coefficient of reactant $\text{A}$ in the balanced equation
+	- $\Delta\left[\text{A}\right]$ - The change in concentration of the reactant $\text{A}$;
+	- $\Delta{t}$ - The change in time; the time elapsed;
+- Formula: $$\text{R}_\text{OA}=-\frac{1}{Cf_\text{A}}\frac{\Delta\left[\text{A}\right]}{\Delta{t}}$$
+# Overall Reaction Rate with a Product Formula
+- Use case:
+	- When determining the overall reaction rate ( $\text{M}/\text{s}$ ), given the full balanced equation or the coefficient of one of the products;
+- Variables:
+	- $Cf_\text{B}$ - The coefficient of product $\text{B}$ in the balanced equation
+	- $\Delta\left[\text{B}\right]$ - The change in concentration of the product $\text{B}$;
+	- $\Delta{t}$ - The change in time; the time elapsed;
+- Formula: $$\text{R}_\text{OA}=\frac{1}{Cf_\text{B}}\frac{\Delta\left[\text{B}\right]}{\Delta{t}}$$
+# Modified Ideal Gas Law using Molarity
+- Use case:
+	- For determining Ideal Gas Law variables with molarity as a given or desired value;
+- Variables:
+	- $P$ - Pressure ( equal to $1\text{atm}$ when assuming STP);
+	- $M$ - Concentration; molarity ( $\text{M}$ );
+	- $R$ - Gas Constant ( $0.08206\text{L}\cdot\text{atm}/\text{mol}\cdot\text{K}$ )
+	- $T$ - Temperature in Kelvin (equal to $273.15\text{K}$ when assuming STP);
+- Formula: $$P=MRT$$
+# Modified Ideal Gas Law for Determining Pressure Change Rate
+- Use case:
+	- For determining the change in pressure per change of $\text{A}$ in time when given the reaction rate.
+	- For determining the reaction rate of $\text{A}$ when given the change in pressure per change in time.
+- Variables:
+	- $\frac{\Delta{P}}{\Delta{t}}$ - The change in pressure per change in time
+	- $\frac{\Delta\left[\text{A}\right]}{\Delta{t}}$ - The reaction rate; the change in concentration per change in time;
+	- $R$ - Gas Constant ( $0.08206\text{L}\cdot\text{atm}/\text{mol}\cdot\text{K}$ );
+	- $T$ - Temperature ( equal to $273.15K$ when assuming STP );
+- Formula: $$\frac{\Delta{P}}{\Delta{t}}=\frac{\Delta\left[\text{A}\right]}{\Delta{t}}RT$$
+# Generic Rate Law Formula
+- Use case:
+	- For calculating the rate of a reaction ( $\text{M}/\text{s}$ ) using rate constant and the given reactant's concentrations and reaction orders;
+	- This formula is applicable for reactions any one or more reactants
+- Variables:
+	- $\text{rate}$ - Reaction rate ( $\text{M}/\text{s}$ );
+	- $k$ - Rate constant ( value varies per reaction );
+	- $\left[\text{A}\right]$ - Concentration of first reactant;
+	- $\left[\text{B}\right]$ - Concentration of second reactant;
+	- $\left[\text{N}\right]$ - Concentration of nth reactant;
+	- $x$ - Reaction order of your first reactant;
+	-  $y$ - Reaction order of your second reactant;
+	-  $n$ - Reaction order of your nth reactant;
+- Formula: $$\text{rate}=k\left[\text{A}\right]^x\left[\text{B}\right]^y\cdots\left[\text{N}\right]^n$$
+# Generic Rate Law - Reaction Order Formula
+- Use case:
+	- For calculating the reaction order of a reaction using the generic rate law;
+	- Use two sets of experimental data where the values of the other reactants are equal on both experiments.
+- Variables:
+	- $x$ - Reaction order of reactant;
+	- $\text{rate}_1$ - Reaction rate of your first experiment;
+	- $\text{rate}_2$ - Reaction rate of your second experiment;
+	- $\left[\text{A}\right]_1$ - Concentration of your reactant in the first experiment;
+	- $\left[\text{A}\right]_2$ - Concentration of your reactant in the second experiment;
+- Formula: $$x=\frac{\log\left(\frac{\text{rate}_1}{\text{rate}_2}\right)}{\log\left(\frac{\left[\text{A}\right]_1}{\left[\text{A}\right]_2}\right)}$$
+# Generic Rate Law - Rate Constant Formula
+- Use case:
+	- For calculating the rate constant of a reaction using the generic rate law;
+	- use one set of experimental data;
+- Variables:
+	- $k$ - Reaction rate constant;
+	- $\text{rate}$ - Reaction rate ( $\text{M}/\text{s}$ );
+	- $\left[\text{A}\right]$ - Concentration of first reactant;
+	- $\left[\text{B}\right]$ - Concentration of second reactant;
+	- $\left[\text{N}\right]$ - Concentration of nth reactant;
+	- $x$ - Reaction order of your first reactant;
+	- $y$ - Reaction order of your second reactant;
+	- $n$ - Reaction order of your nth reactant;
+- Formula: $$k=\frac{\text{rate}}{\left[\text{A}\right]^x\left[\text{B}\right]^y\cdots\left[\text{N}\right]^n}$$
+# Overall Reaction Order Formula
+- Use case:
+	- For calculating the overall reaction order when all reaction orders are known.
+- Variables:
+	- $\text{RO}_\text{OA}$ - Overall Reaction Order;
+	- $\sum$ - "the sum of all—";
+	- $x$ - reaction order; the exponent of your reactant's concentration
+		- $x_1$ - first reactant's reaction order;
+		- $x_2$ - second reactant's reaction order;
+		- $x_n$ - nth reactant's reaction order;
+- Formula: $$\text{RO}_\text{OA}=\sum{x}\quad\text{or}\quad\text{RO}_\text{OA}=x_1+x_2+\cdots+x_n$$
+# Rate Constant Unit Formula
+- Use case:
+	- For determining the unit of your rate constant ( $k$ ).
+- Variables:
+	- $\text{RO}_\text{OA}$ - Overall reaction rate;
+- Formula: $$\text{unit}=\text{M}^{1-\text{RO}_\text{OA}}\text{s}^{-1}$$
