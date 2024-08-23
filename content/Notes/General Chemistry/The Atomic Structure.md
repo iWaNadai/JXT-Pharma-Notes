@@ -61,7 +61,7 @@ $$^{A}_ZX^m_n$$
 - $n$ - Number of moles of the element
 # Rules in Electron Configuration
 - Aufbau Principle - Lower energy levels are filled up first
-- Hund's Rule - orbital are filled up by singly before pairing up
+- Hund's Rule - orbital are filled up singly before pairing up
 - Pauli's Exclusion Principle - No two electron can have the same quantum number
 	- This is the reason why orbitals can only occupy 2 electrons because ms should only have 2 values ( $+\frac{1}{2}$ or$-\frac{1}{2}$ )
 # Molecular Bonding

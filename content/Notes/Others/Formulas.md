@@ -31,8 +31,7 @@ date: 2024-07-23
 	- $T$ - Temperature ($K$)
 	- $n$ - Number of moles ($mol$)
 	- $R$ - Gas constant ($0.08206L\cdot atm/mol\cdot K$)
-- Formula: 
-	- $$PV=nRT$$
+- Formula: $$PV=nRT$$
 # Boyle's Law Formula
 - Use Case: 
 	- Temperature is constant / Isothermal
@@ -145,19 +144,39 @@ date: 2024-07-23
 		- High Power Lens = $40\times$
 		- Oil Immersion Objective Lens = $100\times$
 	- $M_\text{Total}$ - Total magnification used in your experiment
-- Formula: $M_\text{Total}=M_\text{Ocular}\times M_\text{Objective}$
+- Formula: $$M_\text{Total}=M_\text{Ocular}\times M_\text{Objective}$$
 # Mole Conversion Between Different Molecules Formula
 - Use case:
 	- When converting from the moles of element $x$ to moles of element $y$ and a balanced chemical equation is given.
 - Variables:
 	- $Cf_x$ - Coefficient of element $x$ in the balanced chemical equation.
 	- $Cf_y$ - Coefficient of element $y$ in the balanced chemical equation.
-- Formula: 
-	- $$\frac{Cf_x}{Cf_y}$$
+- Formula: $$\frac{Cf_x}{Cf_y}$$
 # The Number of Subsets in a Set
 - Use case:
 	- When calculating the number of subsets in a set
 - Variables:
 	- $|A|$ - Number of elements in a set
-- Formula: 
-	- $$\text{Number of subsets}=2^{|A|}$$
+- Formula: $$\text{Number of subsets}=2^{|A|}$$
+# Reaction Rate of a Reactant
+- Use case:
+	- when determining the reaction rate of a reactant $\text{A}$ in terms of molars per second ( $\text{M}/\text{s}$ )
+- Variables:
+	- $\Delta\left[\text{A}\right]$ - the change in concentration of the reactant $\text{A}$;
+		- $\Delta$ - "the change in—";
+		- $\left[\text{A}\right]$ - the concentration of the reactant $\text{A}$;
+	- $\Delta t$ - the change in time; the time elapsed;
+		- $\Delta$ - "the change in—";
+		- $t$ - time;
+- Formula: $$-\frac{\Delta\left[\text{A}\right]}{\Delta{t}}$$
+# Reaction Rate of a Product
+- Use case:
+	- when determining the reaction rate of a product $\text{B}$ in terms of molars per second ( $\text{M}/\text{s}$ )
+- Variables:
+	- $\Delta\left[\text{B}\right]$ - the change in concentration of the reactant $\text{B}$;
+		- $\Delta$ - "the change in—";
+		- $\left[\text{B}\right]$ - the concentration of the reactant $\text{A}$;
+	- $\Delta t$ - the change in time; the time elapsed;
+		- $\Delta$ - "the change in—";
+		- $t$ - time;
+- Formula: $$\frac{\Delta\left[\text{B}\right]}{\Delta{t}}$$

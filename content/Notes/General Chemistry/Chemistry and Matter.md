@@ -30,8 +30,9 @@ The International System of Units, abbreviated to SI Units (from the french: *Sy
 SI Units have prefixes that denote their scale in relation to their base unit (the below example uses grams ($g$) ).
 
 $$kg\leftarrow hc\leftarrow dag\leftarrow g \rightarrow dg \rightarrow cg \rightarrow mg$$
+
 - $kg$ - Kilograms
-- $hc$ - Hectogramss
+- $hc$ - Hectograms
 - $dag$ - Dekagrams
 - $g$ - Grams
 - $dg$ - Decigrams
@@ -40,6 +41,7 @@ $$kg\leftarrow hc\leftarrow dag\leftarrow g \rightarrow dg \rightarrow cg \right
 The values above have the corresponding bases as below: 
 
 $$10^{-3} \leftarrow 10^{-2} \leftarrow 10^{-1} \leftarrow 10^{0} \rightarrow 10^1 \rightarrow 10^2 \rightarrow 10^3$$
+
 The conversion between SI Units (Metric Units) is as simple as multiplying or dividing your value with the base off your desired unit.
 
 For methods in converting between Imperial/Non-metric units to SI/Metric units, see: [[Units and Conversions]].
@@ -85,7 +87,7 @@ Compound is the appropriate term for a substance comprised of two or more elemen
 Molecules are commonly used to refer to compounds; molecules are any substance that is comprised of two or more elements regardless of the number of unique elements involved.
 (Ex. $O_2$ is both an element and a molecule, $H_2O$ is both a compound and a molecule.)
 ### Mixtures
-Mixtures are described a mixture of two or more pure substances and can be further classified into [[#Homogeneous Mixtures|heterogeneous]] and [[#Homogeneous Mixtures|homogeneous]] mixtures. 
+Mixtures are described as a mixture of two or more pure substances and can be further classified into [[#Homogeneous Mixtures|heterogeneous]] and [[#Homogeneous Mixtures|homogeneous]] mixtures. 
 #### Heterogeneous Mixtures
 These are mixtures where their components are still differentiable from one another (Ex. a mixture of oil and water).
 
@@ -106,7 +108,7 @@ Scientists have developed many ways to extract specific components from mixtures
 
 The following are the distinct methods of separation: 
 - Filtration (S in L) - Utilizes the size difference between the solute and the solvent usually through the use of a filtration mesh or filter paper. This method only works for suspensions.
-- Evaporation (S in L) - Utilizes the difference in boiling points to separate by allowing one component to evaporate and leaving the other component/s as residu.
+- Evaporation (S in L) - Utilizes the difference in boiling points to separate by allowing one component to evaporate and leaving the other component/s as residue.
 - Distillation (S in L) - Similar to evaporation but with the added benefit of preserving both components of the mixture; often used when the first component to evaporate is the desired component.
 - Sublimation (S in S) - A method that makes one of the solid components involved sublimate (turn into gas) and leaving the non-sublimable component as residue.
 - Crystallization (S in L) - A method that takes advantage of the solid component’s crystallization upon cooling the solution down after heating.
@@ -160,7 +162,7 @@ Example: $C+O\longrightarrow C_1O_2$
 When chemical elements combine, they do so in a ratio of small whole numbers.
 
 Example: $C+O\longrightarrow CO_2$
-#### Law of Reciprocal Proportion (Ritcher)
+#### Law of Reciprocal Proportion (Richter)
 Also known as the Law of Combining Weights or the Law of Equivalents.
 
 Elements combine in the ratio of their combining weights or chemical equivalents; or is some cases multiple or sub-multiple of that ratio.
@@ -209,7 +211,7 @@ The heavier the gas the slower its rate of movement.
 
 $$\text{Rate}_\text{diffusion}\propto\frac{1}{\sqrt{\text{density}}}$$
 
-Diffusion is the movement of a molecule from an area high concentration towards an area of low concentration. Osmosis is an example of diffusion specific to the movement of water ($H_2O$).
+Diffusion is the movement of a molecule from an area of high concentration towards an area of low concentration. Osmosis is an example of diffusion specific to the movement of water ($H_2O$).
 ![[Formulas#Graham's Law Formula]]
 #### Fick's First Law Formula
 Movement of particles (diffusion flux) is proportional to the concentration gradient (from high concentration to low concentraion)

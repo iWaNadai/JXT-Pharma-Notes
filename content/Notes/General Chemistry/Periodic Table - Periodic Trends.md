@@ -31,6 +31,7 @@ The difference in electronegativity between two elements in a bond will determin
 | Non-Polar Covalent | $0-0.4$                         |
 | Polar Covalent     | $0.4–2$                         |
 | Ionic Bonds        | $>2$                            |
+
 Electronegativity increases as you move from left to right ( $\rightarrow$ ) and as you move up a group ( $\uparrow$ ).
 ## Ionization Energy
 Ionization Energy is the amount of energy that is required to remove a valence electron from an isolated atom in a gaseous state.

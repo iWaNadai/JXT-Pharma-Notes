@@ -40,7 +40,7 @@ The name generated for these type of bonds follow the following formats
 
 Note: the "-ous" suffix is used to refer to the lesser oxidation state ( $\text{OxS}$ ) of a given element; and the "-ic" suffix is used to refer to the greater oxidation state. For a guide on the oxidation states, click [[Chemical Nomenclature#Oxidation States|here]].
 
-$$CuCL=\text{Copper (I) Chloride}=\text{Cuprous Chloride}$$
+$$\text{CuCl}=\text{Copper (I) Chloride}=\text{Cuprous Chloride}$$
 #### Ionic Ternary
 These are bonds between a transitive metal and a polyatomic ion.
 
@@ -71,7 +71,7 @@ The diatomic atoms are:
 #### Covalent Binary
 These are compounds composed of two nonmetals bonded via a covalent bond.
 
-The names generated for these follow this format: $$[\text{prefix+nonmetal prefic+nonmetal+ide}]$$
+The names generated for these follow this format: $$[\text{prefix+nonmetal prefix+nonmetal+ide}]$$
 The prefixes to be used are the following:
 
 | Subscript | Prefix |
@@ -88,9 +88,11 @@ The prefixes to be used are the following:
 | 10        | deca-  |
 
 $$S_2O_4=\text{Disulfur Tetroxide}$$
+
 Note: When the first letter of the element is a vowel, the last letter of the prefix can be omitted (Ex. $\text{Tetraoxide}\rightarrow\text{Tetroxide}$).
 
 $$CO_2=\text{Carbon Dioxide}$$
+
 Note: When the first element has a subscript of 1, a prefix of "mono-" is not necessary.
 ### Acid
 These are elements that contain a leading hydrogen atom in their chemical formula.
@@ -99,7 +101,7 @@ These are bonds between an hydrogen atom and a nonmetal.
 
 The name generated for these type of bonds follow this format: $$[\text{hydro+element+ic acid}]$$
 
-$$HCl=Hydrochloric Acid$$
+$$HCl=\text{Hydrochloric Acid}$$
 #### Hydrogen + Polyatomic Ion
 These are bonds between an hydrogen atom and a polyatomic ion.
 

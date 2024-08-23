@@ -6,16 +6,17 @@ tags:
 date: 2024-08-01
 ---
 # The Dignity of the Human Person
-> "Humans persons willed by God; they are imprinted with God's image. Their dignity does not comes from the work they do, but from the persons they are." - Centessimus Annus, 11
+> "Human persons willed by God; they are imprinted with God's image. Their dignity does not comes from the work they do, but from the persons they are." - Centessimus Annus, 11
 
-Dignity is an inherent trait of all of God's creations, especially humans. Dignity dictats that we are unique and priceless and our value is not ruined by what we do because we are inherently of value in the eyes of God.
+Dignity is an inherent trait of all of God's creations, especially humans. Dignity dictates that we are unique and priceless and our value is not ruined by what we do because we are inherently of value in the eyes of God.
 
 > "Things have a price and can be for sale, but people have a dignity that is pricelesseless and worth far more than things." - Pope Francis
 
-Even if society can place a price on an object, even people can be given a price by society, we are inherently priceless and unique and cannot be given any measurable monetary value.
+If society can place a price on an object, even people can be given a price by society, but we are inherently priceless and unique and cannot be given any measurable monetary value.
 
-We are inherently unique, even twins share unique traits that set them apart. The disabled individuals are not seen as beneath us or undignified because of their shortcomings, but are seen as equal to us in the eyes of God, The Almighty Father.
+We are inherently unique, even twins share unique traits that set them apart. 
 
+The disabled individuals are not seen as beneath us or undignified because of their shortcomings, but are seen as equal to us in the eyes of God, The Almighty Father.
 ## Notions about Human Dignity
 Human dignity is a person's possession of basic rights:
 - The essential rights to clothing and shelter.
@@ -44,11 +45,11 @@ The human person has a soul which endows him/her with the ability to know and lo
 ## The Sacredness of Life
 Life is the clearest and most central manifestation of God among us; for it is a gift given from Him to us. It is the transcendent value and worth of every person that comes from God.
 
-Human dignity is therefor the basic respect of person that manifest life. The respect that allows our fellow man to develop their own potential; and to make some personal contribution to common goals and to feel a home in an environment within which they are known and acknowledge.
+Human dignity is therefor the basic respect of person that manifests life. The respect that allows our fellow man to develop their own potential; and to make some personal contribution to common goals and to feel a home in an environment within which they are known and acknowledge.
 
 To respect a person and their human dignity is to acknowledge their personal worth and to act in a way to develop it. Human dignity states that we have our own personal worth and that society is tasked with developing that worth.
 
-Human dignity dictates that despite the social, economic, physical, emotional, or mental handicaps do not lessen a person's human dignity; and does not warrant or justify disrespect onto them. Many methods, such as Special Education show that handicaps can be worked around and will not fully disable a person.
+Human dignity dictates that despite the social, economic, physical, emotional, or mental handicaps, a person's human dignity is not lessened; and does not warrant or justify disrespect onto them. Many methods, such as Special Education show that handicaps can be worked around and will not fully disable a person.
 ### Reason
 It refers to the faculty that has the capacity to grasp truth and knowledge of the good.
 ### Freedom
@@ -59,7 +60,7 @@ It refers to the written law in the hearts of men that commands to do good and a
 ### Genesis
 > "God created man in His image, in the divine image He created him, male and female, He created them." - Genesis 1:27
 
-> "Humans are Imago Dei".
+> "Humans are Imago Dei."
 
 Imago Dei means the image of God
 
@@ -108,7 +109,7 @@ We are redeemed by Christ. Jesus' sacrifice on the cross showed God's solidarity
 ### Doctrine
 Doctrine focuses on the question: "What can we know?" and refers to act of believing in God.
 
-This dimension centers on our creed–– our set of beliefs; and that is why this dimension inherently takes place in our mind.
+This dimension centers on our creed— our set of beliefs; and that is why this dimension inherently takes place in our mind.
 
 This dimension is what urges us to know more about God and this is valuable to us in our genuine personal maturity.
 ### Morals

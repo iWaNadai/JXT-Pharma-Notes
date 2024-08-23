@@ -6,41 +6,55 @@ date: 2024-07-23
 ---
 # Units 
 - Units for Mass
-	- SI Units
-		- Kilograms ( $\text{kg}$ )
-		- Hectograms ( $\text{hg}$ )
-		- Dekagrams ( $\text{dag}$ )
-		- Grams ( $\text{g}$ )
-		- Decigrams ( $\text{dg}$ )
-		- Centigrams ( $\text{cg}$ )
-		- Milligrams ( $\text{mg}$ )
+	- SI
+		- kilograms ( $\text{kg}$ )
+		- hectograms ( $\text{hg}$ )
+		- dekagrams ( $\text{dag}$ )
+		- grams ( $\text{g}$ )
+		- decigrams ( $\text{dg}$ )
+		- centigrams ( $\text{cg}$ )
+		- milligrams ( $\text{mg}$ )
+	- Other
+		- pounds ( avoirdupois ) ( $\text{lb}$ )
+		- pounds ( apothecary ) ( $\text{℔}$ )
+		- grain ( avoirdupois/apothecary ) ( $\text{gr}$ )
 - Units for Volume
-	- Derived Units 
-		- Cubic Centimeter ( $\text{cc}\space\text{or}\space\text{cm}^3$ )
-	- SI Units
-		- Kiloliters ( $\text{kL}$ )
-		- Hectoliters ( $\text{hL}$ )
-		- Dekaliters ( $\text{daL}$ )
-		- Liters ( $\text{L}$ )
-		- Deciliters ( $\text{dL}$ )
-		- Centiliters ( $\text{cL}$ )
-		- Milliliters ( $\text{mL}$ )
+	- Derived 
+		- cubic centimeter ( $\text{cc}\space\text{or}\space\text{cm}^3$ )
+	- SI
+		- kiloliters ( $\text{kL}$ )
+		- hectoliters ( $\text{hL}$ )
+		- dekaliters ( $\text{daL}$ )
+		- liters ( $\text{L}$ )
+		- deciliters ( $\text{dL}$ )
+		- centiliters ( $\text{cL}$ )
+		- milliliters ( $\text{mL}$ )
+	- Other
+		- fluid ounce ( $\text{fl ℥}$ )
+		- fluid dram ( $\text{fl ʒ}$ )
+		- minim ( $\text{minim}$ )
 - Units for Pressure
-	- Derived Units
-		- $\text{N}/\text{m}^2$
-		- $\text{kg}/\text{m}\cdot\text{s}^2$
+	- Derived
+		- millimeter of mercury ( $\text{mmHg}$ )
+		- newtons per square meter ( $\text{N}/\text{m}^2$ )
 	- SI Units
-		- Kilopascals ( $\text{kPa}$ )
-		- Hectopascals ( $\text{hPa}$ )
-		- Dekapascals ( $\text{daPa}$ )
-		- Pascals ( $\text{P}$a )
-		- Decipascals ( $\text{dPa}$ )
-		- Centipascals ( $\text{cPa}$ )
-		- Millipascals ( $\text{mPa}$ )
-- Units for Time
+		- kilopascals ( $\text{kPa}$ )
+		- hectopascals ( $\text{hPa}$ )
+		- dekapascals ( $\text{daPa}$ )
+		- pascals ( $\text{P}$a )
+		- decipascals ( $\text{dPa}$ )
+		- centipascals ( $\text{cPa}$ )
+		- millipascals ( $\text{mPa}$ )
+	- Other
+		- standard atmosphere ( $\text{atm}$ )
+		- torr ( $\text{Torr}$ )
+- Time
 	- Seconds ( $\text{s}$ )
 	- Minutes ( $\text{m}$ )
 	- Hours ( $\text{h}$ )
+- Concentration
+	- Derived Units
+		- Molarity ( $\text{M}$ or $\text{n}/\text{L}$)
 # Converting Similar SI Units
 SI Units share a base10 system, simply multiplying and dividing a number by your current unit and desired unit will be enough for a conversion.
 
@@ -67,6 +81,29 @@ $\text{cg}\rightarrow\text{g}$ : $$\left(\frac{1\text{g}}{100\text{cg}}\right)$$
 $\text{mg}\rightarrow\text{g}$ : $$\left(\frac{1g}{1000mg}\right)$$
 
 $\mu\text{g}\rightarrow\text{g}$ : $$\left(\frac{1\text{g}}{1000000\mu\text{g}}\right)$$
+## Prefixes of SI Units
+| Relation to Base               | Prefix | Symbol      |
+| ------------------------------ | ------ | ----------- |
+| $10^{-21}\text{ of base unit}$ | zepto- | $\text{z}$  |
+| $10^{-18}\text{ of base unit}$ | atto-  | $\text{a}$  |
+| $10^{-15}\text{ of base unit}$ | femto- | $\text{f}$  |
+| $10^{-12}\text{ of base unit}$ | pico-  | $\text{p}$  |
+| $10^{-9}\text{ of base unit}$  | nano-  | $\text{n}$  |
+| $10^{-6}\text{ of base unit}$  | micro- | $\mu$       |
+| $10^{-3}\text{ of base unit}$  | milli- | $\text{m}$  |
+| $10^{-2}\text{ of base unit}$  | centi- | $\text{c}$  |
+| $10^{-1}\text{ of base unit}$  | deci-  | $\text{d}$  |
+| $10\text{ of base unit}$       | deka-  | $\text{da}$ |
+| $10^{2}\text{ of base unit}$   | hecto- | $\text{h}$  |
+| $10^{3}\text{ of base unit}$   | kilo-  | $\text{k}$  |
+| $10^{6}\text{ of base unit}$   | mega-  | $\text{M}$  |
+| $10^{9}\text{ of base unit}$   | giga-  | $\text{G}$  |
+| $10^{12}\text{ of base unit}$  | tera-  | $\text{T}$  |
+| $10^{15}\text{ of base unit}$  | peta-  | $\text{P}$  |
+| $10^{18}\text{ of base unit}$  | exa-   | $\text{E}$  |
+| $10^{21}\text{ of base unit}$  | zetta- | $\text{Z}$  |
+
+
 # Converting Different SI Units
 ## Grams to Moles
 - Variable:
@@ -119,11 +156,14 @@ See also: [[Formulas#Ideal Gas Law Formula|Ideal Gas Law]]
 	- $$a_x=n_xN_A$$
 # Converting Non SI Units
 ## Pressure
-Formula: $$1atm=760mmHg=760torr=101.3kPa$$
+Formula: $$1\text{atm}=760\text{mmHg}=760\text{Torr}=101,325\text{Pa}=101,325\text{N}/\text{m}^2=1.01325\text{bar}$$
+*note: column 1 is the given unit, row 1 is the desired unit.*
 ## Temperature
-## $\degree F\rightarrow\degree C$ 
-Formula: $$\degree C=(\degree F-32)\times\frac{5}{9}$$
-## $\degree C\rightarrow K$
-Formula: $$K=\degree C+273.15$$
+- $\degree\text{F}\rightarrow\degree\text{C}$ 
+	- Formula: $$\text{desired}\degree\text{C}=(\text{given}\degree\text{F}-32)\times\frac{5}{9}$$
+- $\degree\text{C}\rightarrow\degree\text{F}$ 
+	- Formula: $$\text{desired}\degree\text{F}=\left(\text{given}\degree\text{C}\times\frac{9}{5}\right)+32$$
+- $\degree C\rightarrow K$
+	- Formula: $$\text{desired }K=\text{given}\degree C+273.15$$
 
 

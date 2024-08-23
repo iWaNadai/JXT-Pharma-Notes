@@ -10,7 +10,7 @@ Chemical bonds are permanent links between atoms or ions that enable them to for
 
 Chemical bonds are caused by forces that attract and stabilize the constituent elements.
 ## Octet Rule
-This is a rule that if observed for every chemical bond where the valence or outer shell of electrons of an element but satisfy a number of 8.
+This is a rule that if observed for every chemical bond where the valence or outer shell of electrons of an element should satisfy a number of 8 through bonding.
 ## Types of bond
 ### Covalent
 Covalent bonds are bonds that can be described as a sharing of valence electrons to satisfy the octet rule.
