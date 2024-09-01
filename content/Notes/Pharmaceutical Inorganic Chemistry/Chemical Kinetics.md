@@ -188,27 +188,109 @@ In the given graphs above, the following can be observed:
 
 In the given diagram, we can see a noticeable hill in our graph, this is our activation energy barrier; the shorter the height of your activation energy barrier, the faster the reaction will take place.
 # Reaction Mechanisms
-***To be added***
+As you may have learned from this note, and from prior knowledge: reactions are a process and are not instantaneous. 
+
+Chemical formulas are a great way to express that your reactants change into your products, but it can be misleading in the sense that it only shows your origin ( reactants ) and your destination ( products ). The best way to visualize a reaction is as a route from your origin to your destination; it's not necessarily a straight line— it can have turns and crosses —in a reaction, these are called elementary steps and your total route is the reaction mechanism.
+
+For example, for the formation of nitrogen dioxide ( $\text{NO}_2$ ), we assume that it is just the collision of 2 nitrogen monoxide ( $\text{NO}$ ) molecules and an oxygen molecule ( $\text{O}_2$ ) because that would make for a balanced equation; but this cannot be true because during the course of the reaction, dinitrogen dioxide ( $\text{N}_2\text{O}_2$ ) is detected. With the presence of $\text{N}_2\text{O}_2$ in mind, we can define the reaction as two elementary steps: 
+
+*Elementary step 1 - nitrogen monoxide molecules collide to form dinitrogen dioxide*
+
+$$2\text{NO}(g)\longrightarrow\text{N}_2\text{O}_2(g)$$
+
+*Elementary step 2 - dinitrogen dioxide molecules collide with oxygen molecules to form nitrogen dioxide*
+
+$$\text{N}_2\text{O}_2(g)+\text{O}_2(g)\longrightarrow2\text{NO}_2(g)$$
+
+Now with the both our elementary steps formulated, we can make the overall reaction formula below:
+
+$$2\text{NO}(g)+\cancel{\text{N}_2\text{O}_2}+\text{O}_2\longrightarrow\cancel{\text{N}_2\text{O}_2}+2\text{NO}_2$$
+
+Notice how $\text{N}_2\text{O}_2$ is present and cancelled on both sides, this is because it is called an intermediate. Intermediates are species that are present in the reaction mechanism but not in the overall reaction equation. Intermediates are always formed in early elementary steps and are consumed in later elementary steps.
+
+The molecularity of a reaction is the number of molecules that appear during an elementary step; the molecules may be of the same or different types.
+
+The two elementary steps before are considered bimolecular reactions, because they involve the collision and reaction of two molecules ( two molecules of $\text{NO}$; $\text{N}_2\text{O}_2$ and $\text{O}_2$ ).
+
+Unimolecular reactions— elementary steps involving one molecules  —and termolecular reactions— elementary steps involving three molecules —also exist.
+
+## Rate Laws and Elementary Steps
+Knowing the elementary steps of a reaction can help in identifying and deducing the rate law of a given reaction.
+
+For example, we have the following general elementary reaction:
+
+$$\text{A}\longrightarrow\text{products}$$
+
+The fact that there is only one molecule present, we can confidently say that this is a unimolecular reaction. The reaction progresses faster the higher the number of A molecules present. Thus we can conclude that the rate is proportional to the concentration of A, or is first order in A:
+
+$$\text{rate}=k\left[\text{A}\right]$$
+For bimolecular reactions, say we have the following general elementary reaction:
+
+$$\text{A}+\text{B}\longrightarrow\text{products}$$
+
+This reaction is affected by the frequency of which A and B collide, which means that the rate is proportional to concentrations of both A and B; we can express the rate law as a second order reaction of two molecules:
+
+$$\text{rate}=k\left[\text{A}\right]\left[\text{B}\right]$$
+
+Another variation of a bimolecular second order reaction is the following:
+
+$$\text{A}+\text{A}\longrightarrow\text{products}$$
+
+$$2\text{A}\longrightarrow\text{products}$$
+
+This gives us a reaction rate law of:
+
+$$\text{rate}=k\left[\text{A}\right]^2$$
+
+The example above show that a reaction order for each reactant in an elementary reaction is equal to its stoichiometric coefficient in the chemical equation for that step. Generally, we cannot tell merely by looking at the overall balanced equation whether the reaction occurs as shown or as a series of steps. We can determine this in the laboratory.
+
+Whenever we study a reaction with more than one elementary step, the rate law for the overall process is given by the rate determining step, which is the slowest step in the sequence that leads to product formation.
+
+An analogy for the rate-determining step is the flow of traffic along a narrow road. Assuming the cars cannot pass one another on the road, the rate at which the cars travel is governed by the slowest-moving car. 
+
+When conducting experimental studies of reaction mechanisms, we start with a rate measurement. Next we analyze the data to obtain the reaction rate orders and the reaction rate constant, we then write the final rate law. Afterwards, we suggest a plausible mechanism for the reaction in terms of elementary steps.
+
+The elementary steps must satisfy both requirements:
+- The sum of the elementary steps must give the overall balanced equation for the reaction.
+- The rate determining step must predict the same rate law as determined experimentally.
 # Catalysis
 ***To be added***
 # Key Definitions
-- **Reaction Rate**
+- **Reaction rate**
 	- the rate of a reaction measures how fast a reactant is consumed or how fast a product is formed;
 	- the unit of rate is expressed in molars per unit of time ( $\text{M}/\text{s}$ , molars per second );
-- **Overall Reaction Rate**
+- **Overall reaction rate**
 	- the reaction rate of the entire reaction;
 	- can be determined by dividing the reaction rate of the reaction's product or reactant by its respective coefficient;
-- **Reaction Order**
+- **Reaction order**
 	- the influence that a reaction's concentration gas on the reaction rate;
-- **Rate Constant**
+- **Rate constant**
 	- the proportionality constant that exists in all generic rate law equations but with varying value;
 	- its unit varies and depends on the overall reaction order of the reaction.
-- **Rate Laws**
+- **Rate laws**
 	- due to experimental data, rate laws were made to express the process in simpler terms;
 	- it is expressed as the relationship of the rate constants, concentration, and rate order;
 	- rate laws are used to determine concentration after a set amount of time as well as a reaction's half life;
-- **Temperature Dependence of Rate Constants**
+- **Temperature dependence of rate constants**
 	- in reactions, equal or greater reaction energy is needed;
 	- rate constants is directly proportional to the temperature;
-- **Activation Energy**
-	- The minimum amount of energy needed for molecules to have reactions upon collision.
+- **Activation energy**
+	- The minimum amount of energy needed for molecules to have reactions upon collision;
+- **Reaction mechanism**
+	- the sum and/or series of elementary steps taken for the reactants to turn into products;
+- **Elementary steps**
+	- intermediary steps taken during a reaction.
+- **Intermediate**
+	- a species that appears in the reaction but is excluded from the overall chemical formula;
+	- a species that appears in early elementary steps and are consumes in later elementary steps.
+- **Molecularity of a reaction**
+	- the number of molecules involved in an elementary step; molecules can be of the same or different types;
+	- can be unimolecular, bimolecular, or termolecular;
+- **Unimolecular reactions**
+	- elementary steps involving one molecule;
+- **Bimolecular reactions**
+	- elementary steps involving two molecules;
+- **Termolecular reactions**
+	- elementary steps involving three molecules;
+- **Rate determining step**
+	- the slowest step that determines the rate law of the entire reaction;

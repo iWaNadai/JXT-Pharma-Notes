@@ -33,17 +33,17 @@ This method uses formulas for each step in the conversion. It is easy to digest 
 
 Each step in our conversion will use the appropriate formula from the collection given below:
 
-![[Units and Conversions#Grams to Moles]] ^7a9279
+![[Formulas#Grams to Moles Conversion Formula]] ^7a9279
 
-![[Units and Conversions#Moles to Grams]]
+![[Formulas#Moles to Grams]]
 
-![[Units and Conversions#Liters to Moles]]
+![[Formulas#Volume to Moles Conversion Formula]]
 
-![[Units and Conversions#Moles to Liters]] ^ebc0b9
+![[Formulas#Moles to Volume Conversion Formula]] ^ebc0b9
 
-![[Units and Conversions#Number of Particles to Moles]]
+![[Formulas#Number of Particles to Moles Conversion Formula]]
 
-![[Units and Conversions#Moles to Number of Particles]]
+![[Formulas#Moles to Number of Particles Conversion Formula]]
 
 ![[Formulas#Mole Conversion Between Different Molecules Formula]] ^dc5feb
 

@@ -43,3 +43,5 @@ Oxidation numbers or oxidation states are the key sign that identifies which spe
 	- the species that undergoes oxidation and encourages reduction;
 - **Oxidant**
 	- the species that undergoes reduction and encourages oxidation;
+- **monoatomic ions**
+	- ions that consist of only one element;

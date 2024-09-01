@@ -56,7 +56,7 @@ The scientific process mainly involves a two part process, those parts are the f
 ## Origin and Evolution of Plants
 Life on Earth began around 3.5 billion years ago with simple organisms similar to modern bacteria. Over billions of years, cells evolved in complexity through natural selection. This process involves slight variations in offspring, where those with advantageous traits are more likely to survive and reproduce, passing on these traits to future generations. New features arise from mutations, and natural selection determines which are preserved or discarded.
 ### What is Natural Selection
-Natural selection refers to the phenomenon that is the driving mechanism of evolution. It is essentially how nature naturally selects which animals get to live and spread their genetics.
+Natural selection refers to the phenomenon that is the driving mechanism of evolution. It is essentially how nature naturally selects which animals get to live and spread their genetic traits.
 
 If an ecosystem's only viable and sustainable source of food are tall trees; animals would die out except for those with long necks or other capabilities to gain nutrients from trees. Those animals that don't die of starvation are then able to breed and pass on their traits that allow them to eat and survive in that ecosystem. This is what natural selection is.
 ### Key Evolutionary Milestones
@@ -91,12 +91,111 @@ Also known as The 10 Herbal Medicines approved by DOH (Department of Health).
 
 The 10 Herbal Medicines are the following:
 1. Sambong (*Blumea balsamifera*)
-2. Akalpulko (*Cassia alata*)
-3. Niyog-niyogan (*Cobretum indicum*)
+	- Pre-clinical
+		- anti-cancer
+		- anti-genotoxicity
+		- anti-mutagenicity
+		- antimicrobial
+		- anti-obesity
+		- antioxidant
+		- dissolution of kidney stones
+	- Clinical
+		- diuretic
+		- antiuricemic (Philippine setting)
+2. Akalpulko (*Senna alata*)
+	- Pre-clinical
+		- anti-allergic
+		- anthelmintic
+		- moquito repllent
+		- insecticidal
+		- snake bites
+	- Clinical
+		- antifungal
+		- antiscabies
+3. Niyog-niyogan (*Quisqualis indica*)
+	- Pre-clinical
+		- antipyretic
+		- antihyperlipidemic
+		- anti-inflammatory
+	- Clinical
+		- anthelmintic
 4. Tsaang Gubat (*Carmona retusa*)
+	- Pre-clinical
+		- anti-allergic
+		- antidiarrheal
+		- antimicrobial
+		- antimutagenic
+	- Clinical
+		- caries-preventative
+		- antispasmodic (Philippine setting)
 5. Ampalaya (*Momordica charantia*)
+	- Pre-clinical
+		- antibacterial
+		- anti-diabetic
+		- anti-cancer
+		- anti-inflammatory
+		- anti-tuberculosis
+		- analgesic
+		- purgative
+		- antiviral
+	- Clinical
+		- antimetabolic syndrome
+		- anti-diabetes
 6. Lagundi (*Vitex negundo*)
+	- Pre-clinical
+		- antimutagenic
+		- depressant on cardiac function
+	- Clinical
+		- antitussive (Philippine setting)
 7. Ulasimang Bato (*Peperomia pellucida*)
+	- Pre-clinical
+		- analgesic
+		- antibacterial
+		- antihyperuricemic
+		- anti-inflammatory
+		- antioxidant
+	- Clinical
+		- antibacterial
+		- anti-cancer
+		- antioxidant
+		- depressant
+		- anti-gout (Philippine setting)
 8. Bawang (*Allium sativum*)
+	- Pre-clinical
+		- Antihyperlipidemic
+		- Antihypertensive
+		- Fibrinolytic
+		- antiplatelet
+		- hypoglycemic
+		- anti-inflammatory
+		- antispasmodic
+		- antimicrobial
+	- Clinical
+		- Hyperlipidemia
+		- hypertension
+		- arteriosclerosis
 9. Bayabas (*Psidium guajava*)
-10. Yerba Buena (*Mentha spicata*)
+	- Pre-clinical
+		- analgesic
+		- antidiarrheal
+		- antihyperglycemic
+		- anti-inflammatory
+		- antipyretic
+		- antimicrobial
+		- antioxidant
+		- antispasmodic
+		- antitussive
+		- hemostatic effects
+		- inotropic effects
+	- Clinical
+		- gingivitis
+		- rotaviral
+		- acute diarrhea
+10. Yerba Buena (*Mentha cordifolia*)
+	- Pre-clinical
+		- analgesis
+		- antimicrobial
+		- antiparasitic
+		- antineoplastic
+	- Clinical
+		- analgesic (Philippine setting)

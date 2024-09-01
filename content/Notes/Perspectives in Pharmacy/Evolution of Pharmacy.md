@@ -37,7 +37,7 @@ The earliest known record of the practice of the art of the apothecary was durin
 
 In Babylon, known as the cradle of civilization, the practicioners o healing were priests, pharmacists, and physicians ( Bender and Thorn, 1965 ).
 
-In ancient Babylonia, the first symptoms of illnesses, prescriptions, and directions or compounding, and invocaion to the gods were recorded on clay tablets.
+In ancient Babylonia, the first symptoms of illnesses, prescriptions, and directions or compounding, and invocation to the gods were recorded on clay tablets.
 
 The Sumerians has a well-ordered civilization in Babylon soon after 5000 BC. Health was an important subject in their culture which came with their common saying of:
 
@@ -247,7 +247,7 @@ He was the originator of the formula for a cold cream, similar to those known to
 
 Galen's many procedures in compounding medicine have their own counterparts in modern compounding laboratories and procedures.
 
-He had many other contributions, such as hid work on the subject of anatomy from his work on pigs ( "the animal most similar to man" according to Galen ) and monkeys, as well as his introduction of several pharmaceutical drugs such as willow bark and landanum ( an opium tincture ) as anaethetics
+He had many other contributions, such as did work on the subject of anatomy from his work on pigs ( "the animal most similar to man" according to Galen ) and monkeys, as well as his introduction of several pharmaceutical drugs such as willow bark and landanum ( an opium tincture ) as anesthetics
 #### King Frederick II
 King Frederick II was the ruler of the Kingdom of Two Sicilies. He contributed to the field of pharmacy by allowing the separation of the practice of pharmacy for the first time in Europe ( Edict of 1231 ).
 #### Girolamo Savonarola
@@ -265,7 +265,7 @@ As a pharmacist and physician, he wrote 200 medical treatises, and was among the
 
 His pharmaceutical teachings were accepted as authority in the West until the 17th century; and still are dominant influences in the Orient.
 
-"Cannon of Medicine", his main work, is a comprehensive medical encyclopedia. Two volumes about pharmacy: one on simples and one on compounds, including a cancer compound called *hindiba*
+"Canon of Medicine", his main work, is a comprehensive medical encyclopedia. Two volumes about pharmacy: one on simples and one on compounds, including a cancer compound called *hindiba*
 
 Contributed to the gilding and silvering of pills to make them easier to swallow
 #### Saints Cosmas and Damian
@@ -350,15 +350,14 @@ He introduced medically active quintessence ( pure and concentrated essence of a
 
 His introduction of medically active quintessence expanded pharmacy from a purely botanical science to a chemical science.
 
-He also replaced the four humors proposed by Hippocrates to the thee chemical constituents:
+He also replaced the four humors proposed by Hippocrates to the three chemical constituents:
 - Sulfur - combustibility
--  Mercury - liquidity
+- Mercury - liquidity
 - Salt - stability
 
 To him, disease was a chemical abnormality to be treated with chemicals. According to him: "Everything is poison, there is poison in everything. Only the dose makes a thing not a poison" in other word: "The dose makes the poison".
 
 He challenged the studies of Galen mainly because Galen believed in the theory of opposites or *cotraria contrariis* principle of Hippocrates which said "opposites are cured by opposites".
-
 ### Essential Figures in the Modern Age of Pharmacy
 #### Francis Bacon
 The philosopher-politician who was instrumental in establishing The Society of Apothecaries of London
