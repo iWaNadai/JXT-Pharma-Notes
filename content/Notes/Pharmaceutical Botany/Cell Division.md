@@ -56,7 +56,7 @@ The nuclear membrane[^nuclearenvelope] also disappears; freeing the chromosomes.
 [^prophasemit]: **Prophase** is the first stage of the mitotic phase.
 [^chromatin]: **Chromatin** is tightly packed DNA.
 [^chromosomes]: **Chromosomes** are tightly packed chromatins.
-#### Metaphase[^metapphasemit]
+#### Metaphase[^metaphasemit]
 In metaphase, the chromosomes are attached to the spindle fibers and are aligned in the equatorial plate[^equatorialplate].
 
 [^equatorialplate]: **Equatorial plate** is the center of the cell in between the centrioles.

@@ -326,3 +326,76 @@ date: 2024-07-23
 - Variables:
 	- $\text{RO}_\text{OA}$ - Overall reaction rate;
 - Formula: $$\text{unit}=\text{M}^{1-\text{RO}_\text{OA}}\text{s}^{-1}$$
+# Least Weighable Quantity Formula
+- Use case:
+	- For calculating the least weighable quantity.
+- Variables:
+	- $\text{LWQ}$ - Least weighable quantity.
+	- $\text{sens req}$ - Sensitivity requirement of weighing device.
+	- $\text{err\%}$ - Acceptable percentage of errors.
+- Formula: $$\text{LWQ}=\frac{100\times\text{sens req}}{\text{err\%}}$$
+# Aliquot Amount Formula
+- Use case:
+	- Calculating amount of aliquot.
+- Variables:
+	- $\text{a}_\text{aliqot}$ - amount of aliquot.
+	- $\text{a}_\text{desired}$ - desired amount.
+	- $\text{f}$ - aliquot factor
+- Formula: $$\text{a}_\text{aliquot}=\text{a}_\text{desired}\times{f}$$
+# Total Aliquot Mixture Formula
+- Use case:
+	- Calculating amount of total aliquot mixture.
+- Variables:
+	- $\text{a}_\text{total}$ - Total amount of mixture.
+	- $\text{a}_\text{aliquot}$ - amount of aliquot.
+	- $\text{f}$ - aliquot factor
+- Formula: $$\text{a}_\text{total}=\text{a}_\text{aliquot}\times{f}$$
+# Aliquot Diluent Formula
+- Use case:
+	- Calculating amount of total aliquot mixture.
+- Variables:
+	- $\text{a}_\text{diluent}$ - amount of diluent.
+	- $\text{a}_\text{total}$ - total amount of mixture.
+	- $\text{a}_\text{aliquot}$ - amount of aliquot
+- Formula: $$\text{a}_\text{diluent}=\text{a}_\text{total}-\text{a}_\text{aliquot}$$
+# Aliquot Ratio Formula
+- Use case:
+	- Calculating the fraction of the total mixture that contains the desired amount of substance.
+- Variables:
+	- $a_\text{weighed}$ - amount of total mixture to be weighed that contains desired amount of substance.
+	- $a_\text{desired}$ - desired amount of substance
+	- $a_\text{total}$ - total amount of mixture
+	- $a_\text{aliquot}$ - amount of aliquot.
+- Formula: $$\frac{a_\text{weighed}}{a_\text{desired}}=\frac{a_\text{total}}{a_\text{aliquot}}$$
+# Percentage Error Formula
+- Use case:
+	- for calculating the percentage of error in a measurement.
+- Variables:
+	- $\text{err\%}$ - percentage of error.
+	- $\text{err}_\text{measurement}$ - the amount of error in a measurement
+	- $q_\text{desired}$ - desired or expected quantity.
+- Formula: $$\text{err\%}=\frac{\text{err}_\text{measurement}}{q_\text{desired}}\times100\%$$
+# Density Formula
+- Use case:
+	- for calculating the density of a substance.
+- Variables:
+	- $\rho$ - density of a substance
+	- $m$ - mass of a substance
+	- $V$ - volume of a substance
+- Formula: $$\rho=\frac{m}{V}$$
+# Specific Gravity Formula
+- Use case:
+	- for calculating specific gravity of a substance
+- Variables:
+	- $\text{sp gr}$ - specific gravity of a substance
+	- $m_\text{substance}$ - weight of a volume of substance
+	- $m_\text{water}$ - weight of equal volumes of water
+- Formula: $$\text{sp gr}=\frac{m_\text{substance}}{m_\text{water}}$$
+# Specific Volume Formula
+- Use case:
+	- for calculating specific volume of a substance
+- Variables:
+	- $\text{sp vol}$ - specific volume of a substance
+	- $v_\text{substance}$ - volume of a weight of substance
+	- $v_\text{water}$ - volume of equal weight of water
+- Formula: $$\text{sp vol}=\frac{v_\text{substance}}{v_\text{volume}}$$

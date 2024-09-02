@@ -7,3 +7,4 @@ date: 2024-08-07
 - [[Mathematical Language and Symbols]]
 - [[Sets of Numbers]]
 - [[Logic]]
+- [[Problem Solving]]

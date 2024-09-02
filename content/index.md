@@ -28,5 +28,4 @@ Any correction is welcomed cause it's gonna save me too!
 - [[Pharmaceutical Inorganic Chemistry]]
 ## General 
 - [[Math in the Modern World]]
-- [[Religious Studies]]
 - [[Purposive Communication]] 
